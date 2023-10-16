@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My DIO app</string>
+    <string name="ola_titulo">Wellcome</string>
+    <string name="ola_paragrafo">Welcome to our app! We\'re delighted to have you here and hope you enjoy your experience exploring all the features and functionalities.</string>
+</resources>

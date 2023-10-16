@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuAPPDio</string>
+    <string name="ola_titulo">Bem Vindo</string>
+    <string name="ola_paragrafo">Bem-vindo ao nosso aplicativo! Estamos muito felizes em tê-lo aqui e esperamos que você aproveite sua experiência explorando todos os recursos e funcionalidades.</string>
+</resources>
